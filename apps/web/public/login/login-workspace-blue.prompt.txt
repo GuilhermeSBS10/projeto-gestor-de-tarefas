@@ -1,0 +1,12 @@
+Use case: photorealistic-natural
+Asset type: full-height left panel image for a professional task-management web app login screen
+Primary request: Create a restrained editorial photograph of a real late-evening work desk that communicates calm organization and purposeful execution, not futuristic technology.
+Scene/backdrop: dark contemporary office after hours, deep navy surroundings, only a hint of architectural background blur.
+Subject: an open paper planner with a short handwritten-looking checklist made of illegible marks, several neatly aligned task cards, a dark blue fountain pen, and the corner of a closed graphite laptop. No person is visible.
+Style/medium: premium natural editorial photography, realistic materials and minor imperfections, subtle film grain, credible commercial art direction, not CGI and not stock-photo cheerful.
+Composition/framing: portrait 4:5 composition; desk objects occupy the lower and center-left areas; preserve calm negative space in the upper third for a small logo overlay; layered depth with foreground paper texture and soft background falloff.
+Lighting/mood: low-key cinematic but clean, one soft cool window light and a restrained cobalt-blue practical light, crisp enough for UI background use, confident and quiet.
+Color palette: deep navy #08111f, slate #0f172a, cobalt #1d4ed8, muted steel blue, small neutral paper highlights; absolutely no green, teal, orange, pink, neon, or multicolor glow.
+Materials/textures: matte paper, anodized metal pen, woven desk pad, realistic laptop finish.
+Constraints: no logos, no brand names, no readable text, no watermark, no UI mockup, no floating holograms, no glowing rings, no robots, no VR headset.
+Avoid: AI-art aesthetic, surreal geometry, excessive bokeh, perfect symmetry, oversaturated blue, glossy 3D render, cyberpunk, sci-fi.
